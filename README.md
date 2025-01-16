@@ -18,3 +18,5 @@ The second version (2.02) that I created later added the following new features:
 The original script was in colab but I moved to Jupyter notebook for the second version which worked better. To run the newer script you will need to download the attached csv and then modify the file path on line 99. I'd definitely recommend using the 2.02 jupyter version over the colab one.
 
 I'm interested in probabilities, risk and prediction and I took on this project primarily out of intellectual curiosity. I have used it to make predictions for fun but never to gamble my actual money and I would advise against doing so. I've found that its predictions are usually similar to the implied probabilities in betting lines except for when there is information like an injury that the model cannot integrate, meaning there's no real edge.
+
+hahaha ian was here -- or something more mature
